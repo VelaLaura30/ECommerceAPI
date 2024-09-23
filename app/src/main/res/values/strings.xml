@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">E-CommerceAPI</string>
+    <string name="productos">Productos</string>
+    <string name="ver_productos">Ver Productos</string>
+    <string name="descripcion">Descripción:</string>
+    <string name="precio">Precio:</string>
+</resources>
